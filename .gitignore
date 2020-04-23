@@ -29,3 +29,4 @@ __history
 *.~pas
 *.ddp
 *.~dpr
+script/sp_mov_caixac.sql
